@@ -1,0 +1,33 @@
+{
+  "file":"chat_memory.json",
+  "note":"THIS IS A COMMENT NOT THE CODE"
+}
+
+{
+  "Student_Career Counselor": [
+    {
+      "type": "human",
+      "content": "Hi"
+    },
+    {
+      "type": "ai",
+      "content": "Welcome to our career counseling session. I'm happy to help you explore your options and find your path. What brings you here today? Are you looking for advice on choosing a major, finding a job, or something else?"
+    },
+    {
+      "type": "human",
+      "content": "How are you?"
+    },
+    {
+      "type": "ai",
+      "content": "I'm doing well, thank you for asking. It's always great to meet new students and help them navigate their career journeys. I'm a bit curious, though - what's been on your mind lately? Have you been thinking about your future, or is there something specific that's been worrying you or exciting you about your career?"
+    },
+    {
+      "type": "human",
+      "content": "Hi"
+    },
+    {
+      "type": "ai",
+      "content": "It sounds like you're a bit quiet today. Don't worry, we can take things at your own pace. If you're not feeling like talking about your career right now, we can start with something more low-key. How about we play a game, or I can ask you some fun icebreaker questions to help us get started?"
+    }
+  ]
+} 
